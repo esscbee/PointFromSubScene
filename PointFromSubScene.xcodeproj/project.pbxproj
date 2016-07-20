@@ -17,6 +17,7 @@
 		D60F23711D40238D00F72621 /* PointFromSubSceneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F23701D40238D00F72621 /* PointFromSubSceneTests.swift */; };
 		D60F237C1D40238D00F72621 /* PointFromSubSceneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F237B1D40238D00F72621 /* PointFromSubSceneUITests.swift */; };
 		D60F238C1D4023BF00F72621 /* SubScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = D60F238B1D4023BF00F72621 /* SubScene.sks */; };
+		D60F238E1D40286C00F72621 /* MyActions.sks in Resources */ = {isa = PBXBuildFile; fileRef = D60F238D1D40286C00F72621 /* MyActions.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		D60F237B1D40238D00F72621 /* PointFromSubSceneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointFromSubSceneUITests.swift; sourceTree = "<group>"; };
 		D60F237D1D40238D00F72621 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D60F238B1D4023BF00F72621 /* SubScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = SubScene.sks; sourceTree = "<group>"; };
+		D60F238D1D40286C00F72621 /* MyActions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyActions.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		D60F234B1D40238D00F72621 = {
 			isa = PBXGroup;
 			children = (
+				D60F238D1D40286C00F72621 /* MyActions.sks */,
 				D60F238B1D4023BF00F72621 /* SubScene.sks */,
 				D60F23561D40238D00F72621 /* PointFromSubScene */,
 				D60F236F1D40238D00F72621 /* PointFromSubSceneTests */,
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D60F238C1D4023BF00F72621 /* SubScene.sks in Resources */,
+				D60F238E1D40286C00F72621 /* MyActions.sks in Resources */,
 				D60F235A1D40238D00F72621 /* GameScene.sks in Resources */,
 				D60F23661D40238D00F72621 /* LaunchScreen.storyboard in Resources */,
 				D60F23631D40238D00F72621 /* Assets.xcassets in Resources */,
